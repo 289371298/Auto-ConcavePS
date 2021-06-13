@@ -9,6 +9,3 @@ Python packages: numpy, open3d, cv2, scipy, tqdm, matplotlib, PIL, OpenEXR
 ## Usage
 Simply run xml_generator.py in terminal. 
 
-
-
-Under Construction ... cbox folder missing
