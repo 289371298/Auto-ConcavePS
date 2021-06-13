@@ -5,10 +5,10 @@ import numpy as np
 import math
 import open3d as o3d
 import cv2
-from compphotofinal.texture_generator import make_texture
+from texture_generator import make_texture
 import scipy.spatial
-from compphotofinal.util import *
-from compphotofinal.AABBtree import *
+from util import *
+from AABBtree import *
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 UNIT_RADIUS = 30
